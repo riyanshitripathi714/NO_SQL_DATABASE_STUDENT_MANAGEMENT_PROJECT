@@ -1,0 +1,2 @@
+# NO_SQL_DATABASE_STUDENT_MANAGEMENT_PROJECT
+Mongodb database student management
